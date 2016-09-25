@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/9/25 12:57:37。
+     1>项目“E:\project\SWT\SWT\SWT.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FeaturesMain.cpp
+         FeaturesMain.cpp
+     1>e:\project\swt\swt\featuresmain.cpp(90): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\project\SWT\Debug\SWT.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\openCV\opencv\build\x86\vc12\lib /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Lib" opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\project\SWT\Debug\SWT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\project\SWT\Debug\SWT.lib" /MACHINE:X86 Debug\FeaturesMain.obj
+         Debug\TextDection.obj
+         SWT.vcxproj -> E:\project\SWT\Debug\SWT.exe
+     1>已完成生成项目“E:\project\SWT\SWT\SWT.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.78
